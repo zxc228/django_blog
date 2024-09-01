@@ -1,4 +1,4 @@
-__pycache__
-.venv
+__pycache__/
+.venv/
 db.sqlite3
-mysite/settigns.py
+mysite/settings.py
